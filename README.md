@@ -66,7 +66,7 @@ playwright install
 
 ```
 IT23542938/
-│── test_automation.py
+│── IT23542938.py
 │── IT23542938.xlsx
 │── IT23542938README.md
 │── IT23542938.txt
